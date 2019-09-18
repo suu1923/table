@@ -1,0 +1,1 @@
+<?php/** * Created by PhpStorm. * User: a1538_000 * Date: 2019/9/14 * Time: 16:07 */namespace Main\Model;use Think\Model;class LoginModel extends Model{    public function checkExp(){    }}

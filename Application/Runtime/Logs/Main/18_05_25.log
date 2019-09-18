@@ -1,0 +1,1943 @@
+[ 2018-05-25T09:33:05+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000906s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0867s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0014s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0011s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2018-05-25T09:44:21+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0007s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0003s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2018-05-25T10:15:28+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0008s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0003s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0003s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2018-05-25T10:21:11+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0003s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0003s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000666s ]
+
+[ 2018-05-25T10:35:06+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0018s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0013s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0007s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001036s ]
+
+[ 2018-05-25T10:35:07+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0006s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0005s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000767s ]
+
+[ 2018-05-25T10:36:12+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000718s ]
+
+[ 2018-05-25T10:36:25+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+SQL: SELECT `companyid`,`classify` FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000589s ]
+
+[ 2018-05-25T10:37:07+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000700s ]
+
+[ 2018-05-25T10:37:09+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000740s ]
+
+[ 2018-05-25T10:37:10+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000690s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000814s ]
+
+[ 2018-05-25T10:37:36+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2018-05-25T10:39:03+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0005s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000810s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+
+[ 2018-05-25T10:39:16+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000554s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000702s ]
+
+[ 2018-05-25T10:39:31+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Undefined variable: Array D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Undefined variable: Array D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Undefined variable: Array D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Undefined variable: Array D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Undefined variable: Array D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Undefined variable: Array D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Undefined variable: Array D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+NOTIC: [8] Undefined variable: Array D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 115 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2018-05-25T10:39:52+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000397s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0005s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 119 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000733s ]
+
+[ 2018-05-25T10:40:44+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000813s ]
+
+[ 2018-05-25T10:40:51+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 120 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2018-05-25T10:41:26+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0003s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0003s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000675s ]
+
+[ 2018-05-25T10:41:27+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0003s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2018-05-25T10:41:41+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0005s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0006s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2018-05-25T10:41:41+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000643s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000703s ]
+
+[ 2018-05-25T10:42:49+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0003s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000581s ]
+
+[ 2018-05-25T10:42:50+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0003s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000590s ]
+
+[ 2018-05-25T10:42:51+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001313s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 117 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000520s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000555s ]
+
+[ 2018-05-25T10:43:05+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 121 行.
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2018-05-25T10:45:26+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000799s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000695s ]
+
+[ 2018-05-25T10:45:54+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000507s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000542s ]
+
+[ 2018-05-25T10:46:17+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000806s ]
+
+[ 2018-05-25T10:46:18+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2018-05-25T10:46:18+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2018-05-25T10:46:18+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000531s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000568s ]
+
+[ 2018-05-25T10:46:18+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2018-05-25T10:46:29+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2018-05-25T10:46:30+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000531s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000565s ]
+
+[ 2018-05-25T10:46:30+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000745s ]
+
+[ 2018-05-25T10:46:30+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000792s ]
+
+[ 2018-05-25T10:46:30+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000626s ]
+
+[ 2018-05-25T10:49:28+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2018-05-25T10:49:44+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 5  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 7  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `infor` WHERE `addmonth` = 6  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000730s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000807s ]
+
+[ 2018-05-25T10:52:13+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 2018 AND `addmonth` = 5  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000955s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001005s ]
+
+[ 2018-05-25T10:53:56+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+
+[ 2018-05-25T10:54:00+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+
+[ 2018-05-25T10:54:01+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+
+[ 2018-05-25T10:54:01+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+
+[ 2018-05-25T10:54:01+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+
+[ 2018-05-25T10:54:01+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+
+[ 2018-05-25T10:54:01+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+
+[ 2018-05-25T10:54:02+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+
+[ 2018-05-25T10:54:06+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 2018 AND `addmonth` = 5  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+
+[ 2018-05-25T10:57:02+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000840s ]
+
+[ 2018-05-25T10:57:11+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2018-05-25T10:57:11+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001466s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000737s ]
+
+[ 2018-05-25T10:57:12+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2018-05-25T10:57:12+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000852s ]
+
+[ 2018-05-25T10:57:15+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2018-05-25T10:57:34+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2018-05-25T10:57:35+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000881s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000580s ]
+
+[ 2018-05-25T10:57:35+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000717s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000763s ]
+
+[ 2018-05-25T10:58:55+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000761s ]
+
+[ 2018-05-25T10:58:56+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000832s ]
+
+[ 2018-05-25T10:58:57+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2018-05-25T10:58:57+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000589s ]
+
+[ 2018-05-25T10:58:57+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2018-05-25T10:58:57+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001291s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2018-05-25T10:58:58+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000798s ]
+
+[ 2018-05-25T10:59:09+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000632s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2018-05-25T10:59:10+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2018-05-25T10:59:34+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2018-05-25T10:59:35+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001200s ]
+
+[ 2018-05-25T10:59:36+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000817s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000880s ]
+
+[ 2018-05-25T10:59:37+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2018-05-25T11:02:13+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = null AND `addmonth` = null  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000632s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000665s ]
+
+[ 2018-05-25T11:02:13+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = null AND `addmonth` = null  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000557s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000600s ]
+
+[ 2018-05-25T11:02:25+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000811s ]
+
+[ 2018-05-25T11:02:25+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001513s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000942s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-25T11:02:26+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000523s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000560s ]
+
+[ 2018-05-25T11:02:26+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2018-05-25T11:02:29+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000753s ]
+
+[ 2018-05-25T11:02:30+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000590s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2018-05-25T11:02:30+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000609s ]
+
+[ 2018-05-25T11:02:32+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 0 AND `addmonth` = 0  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2018-05-25T11:03:13+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+NOTIC: [8] Undefined variable: query D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 90 行.
+NOTIC: [8] Undefined variable: query D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 95 行.
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000783s ]
+
+[ 2018-05-25T11:03:14+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+NOTIC: [8] Undefined variable: query D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 90 行.
+NOTIC: [8] Undefined variable: query D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 95 行.
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000829s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000888s ]
+
+[ 2018-05-25T11:03:14+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+NOTIC: [8] Undefined variable: query D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 90 行.
+NOTIC: [8] Undefined variable: query D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 95 行.
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000898s ]
+
+[ 2018-05-25T11:03:15+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+NOTIC: [8] Undefined variable: query D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 90 行.
+NOTIC: [8] Undefined variable: query D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 95 行.
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2018-05-25T11:03:16+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+NOTIC: [8] Undefined variable: query D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 90 行.
+NOTIC: [8] Undefined variable: query D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 95 行.
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000826s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000882s ]
+
+[ 2018-05-25T11:03:19+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+NOTIC: [8] Undefined variable: query D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 90 行.
+NOTIC: [8] Undefined variable: query D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 95 行.
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000836s ]
+
+[ 2018-05-25T11:03:34+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=2019&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 2019  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000602s ]
+
+[ 2018-05-25T11:03:43+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=2018&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 2018  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000565s ]
+
+[ 2018-05-25T11:03:46+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=2018&month=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 2018 AND `addmonth` = 7  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000703s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000743s ]
+
+[ 2018-05-25T11:03:50+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=2018&month=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 2018 AND `addmonth` = 5  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2018-05-25T11:07:55+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=2018&month=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 2018 AND `addmonth` = 5  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000855s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000906s ]
+
+[ 2018-05-25T11:07:56+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=2018&month=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 2018 AND `addmonth` = 5  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000750s ]
+
+[ 2018-05-25T11:07:57+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=2018&month=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 2018 AND `addmonth` = 5  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000565s ]
+
+[ 2018-05-25T11:07:57+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=2018&month=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 2018 AND `addmonth` = 5  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2018-05-25T11:08:04+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=2018&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor` WHERE `addyear` = 2018  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000580s ]
+
+[ 2018-05-25T11:08:29+08:00 ] ::1 /infor/index.php/Main/Infor/queryData.html?company=%23&year=%23&month=%23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+NOTIC: [8] Undefined variable: query D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 96 行.
+SQL: SELECT `classify`,`score`,`companyid`,`addyear`,`addmonth` FROM `infor`  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2018-05-25T11:53:33+08:00 ] ::1 /infor/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000870s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000338s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.093364s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093523s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.053652s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.053722s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000886s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000935s ]
+
+[ 2018-05-25T11:53:38+08:00 ] ::1 /infor/index.php/Main/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SELECT * FROM `user` WHERE `username` = 'suu' LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2018-05-25T11:53:46+08:00 ] ::1 /infor/index.php/Main/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+SQL: SELECT * FROM `user` WHERE `username` = 'Administrator' LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `user` SET `lasttime`='2018-05-25 11:53:46',`lastip`='0.0.0.0' WHERE `id` = 1 [ RunTime:0.0795s ]
+
+[ 2018-05-25T11:53:48+08:00 ] ::1 /infor/index.php/Main/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019848s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019912s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000421s ]
+
+[ 2018-05-25T11:53:48+08:00 ] ::1 /infor/index.php/Main/Index/demo/welcome.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+ERR: 非法操作:demo
+
+[ 2018-05-25T11:53:50+08:00 ] ::1 /infor/index.php/Main/Infor/countMain.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+SQL: SELECT * FROM `company` ORDER BY path asc  [ RunTime:0.0411s ]
+SQL: SELECT `addyear` FROM `infor`  [ RunTime:0.0010s ]
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion D:\php\WWW\infor\Application\Main\Controller\InforController.class.php 第 187 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000485s ]
+
+[ 2018-05-25T11:53:59+08:00 ] ::1 /infor/index.php/Main/Infor/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035818s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035907s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2018-05-25T11:53:59+08:00 ] ::1 /infor/index.php/Main/Infor/getInfoJson.html?page=1&limit=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+SQL: SELECT * FROM `infor` ORDER BY addtime desc  [ RunTime:0.0006s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 28 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 26 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 27 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 25 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 28 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 26 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 27 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 26 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 27 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 25 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 26 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 27 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 25 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 26 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 27 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 23 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 26 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `name` FROM `company` WHERE `id` = 27 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-05-25T11:54:00+08:00 ] ::1 /infor/index.php/Main/Infor/companyJson.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SELECT * FROM `company` WHERE `pid` = 0  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `company` WHERE `pid` = 21  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `company` WHERE `pid` = 23  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `company` WHERE `pid` = 26  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `company` WHERE `pid` = 27  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `company` WHERE `pid` = 24  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `company` WHERE `pid` = 25  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `company` WHERE `pid` = 28  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+

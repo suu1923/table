@@ -1,0 +1,177 @@
+<fieldset class="layui-elem-field layui-field-title" style="margin-top: 20px;">
+    <legend>上报信息统计</legend>
+</fieldset>	
+<div class="layui-tab-content">
+	<form class="layui-form queryForm">
+        <label>上报单位</label>
+        <div class="layui-input-inline">
+    		<select name="company">
+    		    <option value="#">请选择上报单位</option>
+    		    <volist name="companyData" id="cvo">
+                    <!-- <op -->
+                    <if condition="$cvo.pid eq 0">
+                        <option disabled="disabled" value="{$cvo.id}">{$cvo.name}</option>
+                    <else />
+                        <option value="{$cvo.id}">{$cvo.name}</option>
+                    </if>
+                </volist>
+    		</select>
+        </div>
+        <label>年度</label>
+        <div class="layui-input-inline">
+            <select name="year" id="year">
+                <option value="#">请选择年份</option>
+                <for start="2018" end="date('Y')+1">
+                    <option value="{$i}">{$i}年</option>
+                </for>
+            </select>
+        </div>
+        <label>月份</label>
+        <div class="layui-input-inline">
+            <select name="month" id="month">
+                <option value="#">请选择月份</option>
+                <for start="1" end="13">
+                    <option value="{$i}">{$i}月</option>
+                </for>
+            </select>
+        </div>
+        <div class="layui-input-inline">
+            <button class="layui-btn" lay-submit lay-filter="query">
+                立即查询
+            </button>
+            <button  class="layui-btn layui-btn-normal" lay-submit lay-filter="download">
+                导出表格
+            </button>
+        </div>
+	</form>
+    <div class="layui-tab-item  layui-show"></div>
+    <!-- layui 自动渲染 -->
+    <table id="inforData" lay-filter="test"></table>
+</div>
+<script>
+	layui.use(['table','vip_table', 'layer','form'],function() {
+	    var table = layui.table, 
+	        vipTable = layui.vip_table,
+	        layer = layui.layer,
+	        form = layui.form,
+	        $ = layui.jquery;
+
+        //监听提交
+        form.on('submit(query)',function(data) {
+            if($("#month option:selected").val() != "#" && $("#year option:selected").val() == "#"){
+                layer.msg("请选择年份",{icon:2});
+                return false;
+            }
+            // console.log("{:U('Infor/queryData')}?"+$(".queryForm").serialize());
+            // return false;
+            layer.msg("正在查询,请稍后",{icon:16,time:1000});
+            $.ajax({
+                type : "GET",
+                url : "{:U('Infor/queryData')}",
+                dataType : 'json',
+                data : $(".queryForm").serialize(),
+                success : function(res){
+                    layer.msg("查询成功",{icon:16,time:1000},function(){
+                        renderTable("{:U('Infor/queryData')}?"+$(".queryForm").serialize());
+                        layer.close();
+                    });
+
+                },
+                error : function(res){
+                    // layer.close(layerid)
+                    layer.msg("提交异常,请重试");
+                }
+            });
+            return false;
+        });
+        // 监听下载
+        form.on('submit(download)',function(data) {
+            if($("#month option:selected").val() != "#" && $("#year option:selected").val() == "#"){
+                layer.msg("请选择年份",{icon:2});
+                return false;
+            }
+            layer.msg("正在导出,请稍后",{icon:16,time:1000});
+            window.open("{:U('Infor/queryData')}?"+$(".queryForm").serialize()+"&download=true");
+            return false;
+        });
+    // 表格渲染
+    function renderTable(url){
+        table.render({
+            elem: '#inforData',
+            height: vipTable.getFullHeight(),
+            cellMinWidth: 50,
+            size: 'sm', //小尺寸的表格
+            cols: [[
+                {
+                    field: 'company',
+                    title: '单位名称',
+                    unresize:true,
+                },
+                {
+                    field: 'classify_0',
+                    title: '报省',
+                    unresize:true,
+                    align: 'left',
+                },
+                {
+                    field: 'classify_1',
+                    title: '省报专用',
+                    unresize:true,
+                },
+                {
+                    field: 'classify_2',
+                    unresize:true,
+                    title: '今日信息',
+                },
+                {
+                    field: 'classify_3',
+                    title: '下发',
+                    unresize:true,
+                },
+                {
+                    field: 'classify_4',
+                    title: '紧急信息',
+                    unresize:true,
+                },
+                {
+                    field: 'classify_5',
+                    title: '领导指示',
+                    unresize:true,
+                },
+                {
+                    field: 'year',
+                    title: '年份',
+                    unresize:true,
+                },
+                {
+                    field: 'month',
+                    title: '月份',
+                    unresize:true,
+                },
+                {
+                    field: 'score',
+                    title: '分数',
+                    unresize:true,
+                },
+                {
+                    field: 'scoresum',
+                    title: '总分数',
+                    unresize:true,
+                },
+            ]],
+            url: url,
+            response:{
+                statusName: 'errno',
+                statusCode: 0,
+                msgName: 'errmsg',
+                countName:null,
+                dataName: 'data'
+            },
+            done: function(res){
+                console.log(res);
+            }
+
+        });
+    }
+});
+</script>

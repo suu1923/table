@@ -1,0 +1,50 @@
+<div class="login-main">
+    <header class="layui-elip" style="width:200%;margin-top:30%;margin-left: -50%;height: 300px">
+        <h2>待确定的系统名称</h2>
+        <br/>
+        <!-- <span style="display: block; margin-top: 10%">登陆</span> -->
+    </header>
+    <form class="layui-form loginForm" style="margin-top:-30% ">
+        <div class="layui-input-inline">
+            <label>用户名</label>
+            <input type="text" name="username" required lay-verify="required" placeholder="用户名" autocomplete="off"
+                   class="layui-input">
+        </div>
+        <div class="layui-input-inline">
+            <label>密码</label>
+            <input type="password" name="password" required lay-verify="required" placeholder="密码" autocomplete="off"
+                   class="layui-input">
+        </div>
+        <div class="layui-input-inline login-btn">
+            <button type="submit" class="layui-btn" lay-submit lay-filter="login">登录</button>
+        </div>
+    </form>
+</div>
+<script type="text/javascript">
+    layui.use(['form'], function () {
+        // 操作对象
+        var form = layui.form,
+               $ = layui.jquery;
+        form.on('submit(login)',function(data) {
+            $.ajax({
+                type : "POST",
+                url : "{:U('Login/login')}",
+                dataType : 'json',
+                data : $(".loginForm").serialize(),
+                success : function(res){
+                    if(res.errno == 0){
+                        layer.msg("登陆成功",{icon:1,time:2000},function(){
+                            window.location.href = "{:U('Index/index')}"
+                        });
+                    }else{
+                        layer.msg(res.errmsg,{icon:2,time:4000});
+                    }
+                },
+                error : function(res){
+                    layer.msg("提交异常,请重试");
+                }
+            });
+            return false;
+        });
+    });
+</script>

@@ -1,0 +1,137 @@
+<fieldset class="layui-elem-field layui-field-title" style="margin-top: 20px;">
+    <legend>编辑上报信息</legend>
+</fieldset>
+    <form class="layui-form editForm" action="">
+        <div class="layui-form-item">
+            <label class="layui-form-label">信息标题</label>
+            <div class="layui-input-block">
+                <input type="text" name="title" required lay-verify="required|comapnyName" placeholder="信息标题"
+                autocomplete="off" class="layui-input comapnyName" value="{$inforData.title}">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">信息分类</label>
+            <div class="layui-input-block">
+                <input type="checkbox" name="classify" lay-skin="primary" title="报省" value="0">
+                <input type="checkbox" name="classify" lay-skin="primary" title="省办采用" value="1">
+                <input type="checkbox" name="classify" lay-skin="primary" title="今日信息" value="2">
+                <input type="checkbox" name="classify" lay-skin="primary" title="下发" value="3">
+                <input type="checkbox" name="classify" lay-skin="primary" title="紧急信息" value="4">
+                <input type="checkbox" name="classify" lay-skin="primary" title="领导指示" value="5">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">信息分值</label>
+            <div class="layui-input-block">
+                <input type="text" name="score" required lay-verify="required|number|positiveNumber" placeholder="上报分数"
+                autocomplete="off" class="layui-input score" value="{$inforData.score}">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">上报单位</label>
+            <div class="layui-input-block">
+                <div id="xtree2" style="overflow:auto;" class="xtree_contianer"></div>
+            </div>
+        </div>    
+        <div class="layui-form-item">
+            <div class="layui-input-block">
+                <button class="layui-btn" lay-submit lay-filter="edit">
+                    立即提交
+                </button>
+                <button type="reset" class="layui-btn layui-btn-primary">
+                    重置
+                </button>
+            </div>
+        </div>
+    </form>
+
+<script>
+layui.use(['table','vip_table', 'layer','element','form'],function() {
+    var table = layui.table, 
+        vipTable = layui.vip_table,
+        layer = layui.layer,
+        $ = layui.jquery,
+        form = layui.form;
+    $(document).ready(function() {
+        var classifyCheck = "{$inforData.classify}",
+            classifyArr = classifyCheck.split(",");
+        // 遍历
+        $("input:checkbox[name='classify']").each(function() {
+            for(var i=0;i<classifyArr.length;i++){
+                if(classifyArr[i] == $(this).attr('value')){
+                    $(this).attr("checked",true);
+                }
+            }
+        });
+     });
+    var xtree2 = new layuiXtree({
+        elem: 'xtree2'                  //(必填) 放置xtree的容器，样式参照 .xtree_contianer
+        , form: form                    //(必填) layui 的 from
+        , data: '{:U("Infor/companyJson")}?condition='+"{$inforData.companyid}" //(必填) 数据接口，需要返回以上结构的json字符串
+        , isopen: false  //加载完毕后的展开状态，默认值：true
+    });
+    form.verify({
+        positiveNumber: function(value,score){
+            if(!new RegExp("^[0-9]*[1-9][0-9]*$").test(value)){
+                return "分数只能输入正整数";
+            }
+        }
+    });
+    // 获取选中的上报单位
+    var companyCheck = function(){
+        var checkeds = xtree2.GetChecked ();
+        var arr = [];
+        for(var i = 0; i< checkeds.length; i++){
+            arr.push(checkeds[i].value);
+        }
+        return arr;
+    };
+    // 获取选中的分类
+    var classifyCheck = function () {
+        var arr = [];
+        $("input:checkbox[name='classify']:checked").each(function() { // 遍历name=standard的多选框
+            arr.push($(this).attr('value'));
+        });
+        return arr;
+    }
+    //监听提交
+    form.on('submit(edit)',function(data) {
+            
+        if(classifyCheck().length == 0 || companyCheck() == "undefined"){
+            layer.msg("信息分类请至少选择一项",{icon:2});
+            return false;
+        }
+        if(companyCheck().length == 0 || companyCheck() == "undefined"){
+            layer.msg("上报单位请至少选择一项",{icon:2});
+            return false;
+        }
+        $.ajax({
+            type : "POST",
+            url : "{:U('Infor/edit')}",
+            dataType : 'json',
+            data : {
+                id : "{$inforData.id}",
+                title : $("input[name='title']").val(),
+                score : $("input[name='score']").val(),
+                classify : classifyCheck(),
+                companyid : companyCheck(),
+            },
+            success : function(res){
+                if(res.errno == 0){
+                    layer.msg("更新成功",{icon:1,time:2000},function(){
+                        window.location.href = "{:U('Infor/Main')}"
+                        window.location.reload; 
+                    });
+                }else{
+                    layer.msg(res.errmsg,{icon:2,time:4000});
+                }
+            },
+            error : function(res){
+                layer.msg("提交异常,请重试");
+            }
+        });
+        return false;
+    });
+
+});
+</script>

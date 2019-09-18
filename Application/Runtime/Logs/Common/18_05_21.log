@@ -1,0 +1,48 @@
+[ 2018-05-21T11:00:47+08:00 ] ::1 /infor/index.php/frame/static/js/vip_table.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+ERR: 无法加载模块:Frame
+
+[ 2018-05-21T15:29:07+08:00 ] ::1 /infor/index.php/infor/Public/frame/static/js/vip_table.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Infor
+
+[ 2018-05-21T15:56:58+08:00 ] ::1 /infor/index.php/infor/Public/frame/static/js/vip_table.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+ERR: 无法加载模块:Infor
+
+[ 2018-05-21T15:57:21+08:00 ] ::1 /infor/index.php/infor/Public/frame/static/js/vip_table.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+ERR: 无法加载模块:Infor
+
+[ 2018-05-21T16:09:23+08:00 ] ::1 /infor/index.php/infor/Public/frame/static/js/vip_table.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+ERR: 无法加载模块:Infor
+
+[ 2018-05-21T16:10:47+08:00 ] ::1 /infor/index.php/Public/frame/static/js/vip_table.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-21T16:10:49+08:00 ] ::1 /infor/index.php/Public/frame/static/js/vip_table.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-21T16:10:52+08:00 ] ::1 /infor/index.php/Public/frame/static/js/vip_table.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+ERR: 无法加载模块:Public
+
