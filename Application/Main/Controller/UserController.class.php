@@ -59,9 +59,14 @@ class UserController extends Controller
 		}
 	}
 
+
 	public function getUser(){
 		$userObj = M("user");
 		$userData = $userObj->field("password",true)->select();
 		$this->ajaxReturn(onOk($userData));
 	}
+
+	public function checkExpDate(){
+
+    }
 }

@@ -207,7 +207,7 @@
             $frame = $filler->frame;
             unset($filler);
             
-            
+
             // masking
             $maskObj = new QRmask();
             if($mask < 0) {

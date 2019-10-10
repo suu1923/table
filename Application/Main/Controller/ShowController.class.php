@@ -6,10 +6,7 @@
  * Time: 12:17
  */
 
-namespace Main\Controller;
 
-
-use Think\Controller;
 
 class ShowController extends Controller
 {
